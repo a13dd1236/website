@@ -32,3 +32,5 @@ spec:
         image: nginx:1.14.2
         ports:
         - containerPort: 80
+        externalIPs:
+        - 52.233.184.22
